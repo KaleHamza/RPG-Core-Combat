@@ -14,3 +14,7 @@ Skill level: Intermediate Level
 *Balance the player and enemy stats (eg. health, damage, movement, attack speed, and more).
 
 *Advanced game design, project management and code architecture strategies.
+
+![Ekran görüntüsü 2023-05-12 004921](https://github.com/KaleHamza/RPG-Core-Combat/assets/71084430/bbfb33db-5fc4-40f5-8198-66b2199a4b8b)
+
+![Ekran görüntüsü 2023-05-12 004653](https://github.com/KaleHamza/RPG-Core-Combat/assets/71084430/5fb52b66-23f1-456b-86cb-26391afbdfc8)
